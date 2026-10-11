@@ -8,4 +8,4 @@ CMSIS_DAP.hex文件来自 https://oshwhub.com/Southerly/daplink-fang-zhen-qi-swd
 * **引用目的：** 本项目仅将其作为硬件验证的参考驱动使用。
 
 ## 免责声明
-本项目作者 (TheSuperPixel) 不对本目录下的文件质量、稳定性或潜在侵权风险负责。
+本项目作者 (SuperPixelElectronics) 不对本目录下的文件质量、稳定性或潜在侵权风险负责。
